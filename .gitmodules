@@ -1,6 +1,6 @@
 [submodule "csci418ass3"]
 	path = csci418ass3
-	url = https://github.com/tch0905/csci4180.git
+	url = https://github.com/tch0905/csci418ass3.git
 [submodule "csci4180ass2"]
 	path = csci4180ass2
-	url = https://github.com/tch0905/csci4180.git
+	url = https://github.com/tch0905/csci4180ass2.git
